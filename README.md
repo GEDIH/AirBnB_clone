@@ -1,5 +1,5 @@
 <div align="Right"><img src="images/200.webp" width="400" height="200" />
-<div align="left"><img src="images/rsa_final.gif" width="600" height="300" />
+<div align="left"><img src="images/giphy.gif" width="500" height="300" />
 # AirBnB
 
 ## Project Description
